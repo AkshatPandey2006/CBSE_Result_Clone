@@ -1,0 +1,88 @@
+.header{
+  background-color: #01a8a8; 
+}
+
+.report-heading{
+  color: blue;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.blue-bg{
+  background-color: #0e00cc;
+}
+
+.light-bg{
+  background-color: #e5e7f9;
+}
+
+.light-bg-center{
+  background-color: #e5e7f9;
+  text-align: center;
+}
+
+.table-black-border td,
+.table-black-border th,
+.table-black-border tr {
+  border: 2px solid #000;
+}
+
+.table-black-border1 td,
+.table-black-border1 th,
+.table-black-border1 tr {
+  border: 1px solid white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
